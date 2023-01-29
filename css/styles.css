@@ -52,10 +52,6 @@ hr{
   margin-bottom: 100px;
 }
 
-.middle-container{
-
-}
-
 .bottom-container{
   background-color: #66BFBF;
   padding-top: 50px;
@@ -106,7 +102,7 @@ hr{
 }
 
 #profile-description{
-  width: 50rem;
+  width: 50%;
   margin: auto;
 }
 
